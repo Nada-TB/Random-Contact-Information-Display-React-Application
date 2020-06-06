@@ -15,8 +15,8 @@ h1{
 .contact-card{
     padding: 20px;
     margin: 50px auto 20px auto;
-    width:450px;
-    height: 200px;
+    width:85%;
+    height: 150px;
     background-color:  #ffd9b3;
     border-radius: 20px;
     box-shadow: 1px 2px 10px #e6e6e6;
@@ -26,12 +26,12 @@ h1{
     font-family: 'Caveat', cursive;
 }
 .contact-card div{
-    margin: 0 30px;
+    margin: 0 10px;
     
 }
 
 .contact-card img {
-    padding: 10px;
+   
     border-radius: 20px;
 }
 
@@ -51,10 +51,32 @@ h1{
 }
 
 .contact-card p{
-    font-size: 1.4em;
     margin: 10px 0;
+    font-size: 0.9em;
 }
 
 footer p{
     text-align: center;
+}
+
+
+@media only screen and (min-width:767px){
+    .contact-card{
+        width:450px;
+        height:200px;
+    }
+    .contact-card p{
+        font-size: 1.4em;
+    }
+    
+    .contact-card div{
+        margin: 0 30px;
+        
+    }
+    .contact-card img {
+        padding: 10px;
+        border-radius: 20px;
+    }
+    
+
 }
