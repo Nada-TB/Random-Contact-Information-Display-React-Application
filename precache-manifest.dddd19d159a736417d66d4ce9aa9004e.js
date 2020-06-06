@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f206315e0ab8b550cb87351bfa3194a",
+    "revision": "40cd047ce5b43d1a57ab926271fa7b9f",
     "url": "/random-contacts-list/index.html"
   },
   {
-    "revision": "aebd08895dafcceba7cd",
-    "url": "/random-contacts-list/static/css/main.f9c77dcd.chunk.css"
+    "revision": "1a49fa3f8787e4c1f895",
+    "url": "/random-contacts-list/static/css/main.fb40bde1.chunk.css"
   },
   {
     "revision": "b928cd7a996bdbf4a94b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/random-contacts-list/static/js/2.a8b73f6c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aebd08895dafcceba7cd",
+    "revision": "1a49fa3f8787e4c1f895",
     "url": "/random-contacts-list/static/js/main.756e48e1.chunk.js"
   },
   {
