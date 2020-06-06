@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/random-contacts-list/static/css/main.f9c77dcd.chunk.css",
+    "main.js": "/random-contacts-list/static/js/main.756e48e1.chunk.js",
+    "main.js.map": "/random-contacts-list/static/js/main.756e48e1.chunk.js.map",
+    "runtime-main.js": "/random-contacts-list/static/js/runtime-main.0fb31ee4.js",
+    "runtime-main.js.map": "/random-contacts-list/static/js/runtime-main.0fb31ee4.js.map",
+    "static/js/2.a8b73f6c.chunk.js": "/random-contacts-list/static/js/2.a8b73f6c.chunk.js",
+    "static/js/2.a8b73f6c.chunk.js.map": "/random-contacts-list/static/js/2.a8b73f6c.chunk.js.map",
+    "index.html": "/random-contacts-list/index.html",
+    "precache-manifest.16d1eb2b2c7067e3ac02578ae85e19bb.js": "/random-contacts-list/precache-manifest.16d1eb2b2c7067e3ac02578ae85e19bb.js",
+    "service-worker.js": "/random-contacts-list/service-worker.js",
+    "static/css/main.f9c77dcd.chunk.css.map": "/random-contacts-list/static/css/main.f9c77dcd.chunk.css.map",
+    "static/js/2.a8b73f6c.chunk.js.LICENSE.txt": "/random-contacts-list/static/js/2.a8b73f6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fb31ee4.js",
+    "static/js/2.a8b73f6c.chunk.js",
+    "static/css/main.f9c77dcd.chunk.css",
+    "static/js/main.756e48e1.chunk.js"
+  ]
+}
