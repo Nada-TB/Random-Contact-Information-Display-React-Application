@@ -1,4 +1,4 @@
-# Project Title
+# Random Contact Information Display React Application
 a single-page React application that fetches and displays random contact information, including images, using a free API.
 
 ## Table of Contents
